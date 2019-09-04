@@ -9,13 +9,13 @@ I created new dataframes with parameters I would like to peform analysis on with
 
 I decided to focus on the borrower APR and see what other parameters could be used as predictors for determining borrower APR.
 
-I looked at the distribution of borrower APR, prosper Rating and Credit Score Range Upper.
+I looked at the distribution of borrower APR, prosper rating and credit score range upper.
 
-I then compared the borrower APR with Prosper Rating, estimated return  and credit score range.
+I then compared the borrower APR with prosper rating, estimated return  and credit score range.
 
 In the multivariate analysis I created visualizations comparing borrower APR with both credit score range upper and prosper rating. I also created a visualization that compared borrower APR, credit score range upper and estimated return.
 
 I found less variablitiy with estimated returns for loans with higher credit scores and prosper ratings.
 
-I found that there was a strong negative correlation between Borrower APR and Prosper Rating. I also found that there is a positive correlation between  Estimated Return Borrower APR. I also found that the higher the credit score the lower the borrower APR and the higher the Prosper Rating.
+I found that there was a strong negative correlation between borrower APR and prosper rating. I also found that there is a positive correlation between  Estimated return, borrower APR. I also found that the higher the credit score the lower the borrower APR and the higher the prosper rating.
 
